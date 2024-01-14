@@ -34,13 +34,26 @@ cd qr-code-node
 npm install
 ```
 
-3. Start the Node.js server:
+3. Add .env:
+
+```bash
+STORE_NAME=RESTAURANT QR MENU
+API_URL=http://localhost:8080
+CLIENT_URL=http://localhost:3000
+DB_LINK='MONGODBLINK'
+GMAIL_USER=USER
+GMAIL_PASS=PASSWORD
+JWT_ACCESS_SECRET=jwt-secret-key
+JWT_REFRESH_SECRET=jwt-refresh-secret-key
+```
+
+4. Start the Node.js server:
 
 ```bash
 npm start
 ```
 
-4. The server should be running on the specified port (default is 8080).
+5. The server should be running on the specified port (default is 8080).
 
 ## Contributing
 
