@@ -24,7 +24,7 @@ This project represents the server-side code for a QR-Code-based restaurant menu
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/qr-code-node.git
+git clone https://github.com/HEAD0223/qr-code-node.git
 cd qr-code-node
 ```
 
