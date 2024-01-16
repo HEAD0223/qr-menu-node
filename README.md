@@ -1,6 +1,11 @@
-# QR-Code Restaurant Menu (**Server**) · In Progress...
+# QR-Code Menu (**Server**) · In Progress...
 
-This project represents the server-side code for a QR-Code-based restaurant menu system. The server is built using Node.js and utilizes various libraries for functionality.
+![Server](https://img.shields.io/badge/Server-QR--Code_Menu-brightgreen)
+![Status](https://img.shields.io/badge/Status-In_Progress-yellow)
+![Self Development](https://img.shields.io/badge/Project-Self_Development-red)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+This project represents the server-side code for a QR-Code-based menu system. The server is built using Node.js and utilizes various libraries for functionality.
 
 ## Table of Contents
 
@@ -37,7 +42,7 @@ npm install
 3. Add .env:
 
 ```bash
-STORE_NAME=RESTAURANT QR MENU
+STORE_NAME=QR MENU
 API_URL=http://localhost:8080
 CLIENT_URL=http://localhost:3000
 DB_LINK='MONGODBLINK'
