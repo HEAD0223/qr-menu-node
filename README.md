@@ -1,6 +1,6 @@
-# QR-Code Menu (**Server**) · In Progress...
+# QR Menu (**Server**) · In Progress...
 
-![Server](https://img.shields.io/badge/Server-QR--Code_Menu-brightgreen)
+![Server](https://img.shields.io/badge/Server-QR_Menu-brightgreen)
 ![Status](https://img.shields.io/badge/Status-In_Progress-yellow)
 ![Self Development](https://img.shields.io/badge/Project-Self_Development-red)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
@@ -29,8 +29,8 @@ This project represents the server-side code for a QR-Code-based menu system. Th
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/HEAD0223/qr-code-node.git
-cd qr-code-node
+git clone https://github.com/HEAD0223/qr-menu-node.git
+cd qr-menu-node
 ```
 
 2. Install dependencies:
