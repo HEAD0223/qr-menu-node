@@ -83,5 +83,6 @@ If you would like to contribute to this project, please follow these steps:
 -  **mongoose:** MongoDB object modeling for Node.js.
 -  **nodemailer:** Module for sending emails.
 -  **uuid:** Library for generating and working with UUIDs.
+-  **nodemon:** A tool that helps in the development of Node.js-based applications by automatically restarting the server.
 
 Make sure to include these dependencies in your project.
